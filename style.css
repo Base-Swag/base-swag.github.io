@@ -83,7 +83,7 @@ hr {
 }
 
 #thumbnail {
-  max-width: calc(0.1vw + 300px);
+  max-width: calc(0.5vw + 300px);
   border-radius: 10px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 10%);
 }
